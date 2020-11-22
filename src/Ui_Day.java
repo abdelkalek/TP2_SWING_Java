@@ -48,6 +48,7 @@ public class Ui_Day extends JFrame {
     luneRb.addActionListener(listener);
 }
     public static void main(String[] args) {
+
         Ui_Day ui = new Ui_Day();
     }
 }
